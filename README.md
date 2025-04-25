@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science Engineering at VIT Bhopal University.
+- 🎓 &nbsp; Computer Science Engineering Graduate from VIT Bhopal University.
 - 🌱 &nbsp; I’m currently learning *Python & Data Science*
 - 💬 &nbsp; Ask me about **Java**
 
