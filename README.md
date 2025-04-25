@@ -27,6 +27,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Intellij Idea]
+  ![Eclipse]
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
